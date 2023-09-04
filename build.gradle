@@ -11,7 +11,7 @@ buildscript {
 
 apply plugin: "application"
 
-mainClassName = "com.example.HelloWorldKt"
+mainClassName = "com.example.AppKt"
 
 repositories {
     mavenCentral()
